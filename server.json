@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "421",
+      "name": "teste",
+      "username": "emanuelbacalhau",
+      "blocked": true
+    },
+    {
+      "id": "4124",
+      "name": "teste",
+      "username": "emanuelbacalhau",
+      "blocked": false
+    },
+    {
+      "id": "9947",
+      "name": "Emanuel",
+      "username": "emanuelbacalhau",
+      "blocked": false
+    },
+    {
+      "id": "3603",
+      "name": "teste",
+      "username": "emanuelbacalhau",
+      "blocked": true
+    },
+    {
+      "id": "2800",
+      "name": "Emanuel",
+      "username": "emanuelbacalhau",
+      "blocked": false
+    },
+    {
+      "id": "6878",
+      "name": "Carlos Emanuel Batista Bacalhau",
+      "username": "emanuelbacalhau",
+      "blocked": false
+    }
+  ]
+}
